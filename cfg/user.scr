@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Tue Dec  4 19:17:24 AM
+// File generated:  Fri Dec 21 18:25:50 AM
 //
 //
 // Cvar	-	Setting
@@ -102,7 +102,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "153" }
+		{ "107" }
 	}
 
 	"tf_dingaling_pitchmaxdmg"
@@ -110,7 +110,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "30" }
+		{ "107" }
 	}
 
 	"tf_dingalingaling_lasthit"
@@ -126,7 +126,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_Volume"
 		"#Tooltip_Dingaling_Volume"
 		{ SLIDER 0 1 }
-		{ "0.9" }
+		{ "1" }
 	}
 
 	"tf_dingalingaling_last_effect"
@@ -144,7 +144,7 @@ DESCRIPTION INFO_OPTIONS
 			"#tf_dingalingaling_Vortex" "7"
 			"#tf_dingalingaling_Squasher" "8"
 		}
-		{ "8" }
+		{ "0" }
 	}
 
 	"tf_dingaling_lasthit_pitchmindmg"
@@ -152,7 +152,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "205.039993" }
+		{ "101.839996" }
 	}
 
 	"tf_dingaling_lasthit_pitchmaxdmg"
@@ -160,7 +160,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "48.41" }
+		{ "103.459999" }
 	}
 
 	"hud_combattext"
@@ -363,7 +363,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_viewmodelfov_option"
 		"#Tooltip_viewmodelfov_option"
 		{ SLIDER 54 70 }
-		{ "70" }
+		{ "120" }
 	}
 
 	"tf_spectator_target_location"
@@ -504,7 +504,7 @@ DESCRIPTION INFO_OPTIONS
 	{
 		"#TF_UseMatchHUD"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"category4"
@@ -650,7 +650,7 @@ DESCRIPTION INFO_OPTIONS
 		"#GameUI_DisableSprays"
 		"#Tooltip_DisableSprays"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"sb_close_browser_on_connect"
