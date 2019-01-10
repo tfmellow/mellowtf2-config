@@ -4455,6 +4455,170 @@ Scheme
 				"antialias" "1"
 			}
 		}
+		"knuckles13"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"13"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles14"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"14"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles15"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"15"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles16"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"16"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles17"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"17"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles18"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"18"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles19"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"19"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles20"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"20"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles21"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"21"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles22"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"22
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles23"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"23"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles24"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"24"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles25"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"25"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}
+		"knuckles26"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"26"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		"knuckles27"
+		{
+			"1"
+			{
+				"name"		"KnucklesCrosses"
+				"tall"		"27"
+				"weight"	"400"
+				"additive"	"0"
+				"antialias" "1"
+			}
+		}		
 	}
 
 	//
@@ -7414,6 +7578,11 @@ Scheme
 		{
 		     "font" "resource/font/heydings_icons.ttf"
 		     "name" "font3933"
+		}
+		"19" 
+		{
+		     "font" "resource/font/KnucklesCrosses.ttf"
+		     "name" "KnucklesCrosses"
 		}
 	}
 }

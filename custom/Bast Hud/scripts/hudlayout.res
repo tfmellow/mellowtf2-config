@@ -260,6 +260,30 @@
         
         "fgcolor"   "0 0 0 0"
     }
+	
+    KnucklesCrosshair1
+    {
+        "controlname"   "CExLabel"
+        "fieldname" "KnucklesCrosshair1"
+        
+        "visible"   "1"
+        "enabled"   "1"
+
+        "xpos"      "c-15"
+        "ypos"      "c-15" //"c-13"
+        "zpos"      "2"
+        
+        "wide"      "29"
+        "tall"      "30"
+
+        "font"      "knuckles20"
+        
+        "labeltext" "w"
+
+        "textAlignment" "center"
+        
+        "fgcolor"   "255 000 000 000"
+    }
 //
 //###################
 //#GARM3N CROSSHAIRS#
@@ -429,7 +453,7 @@
         "visible"       "1"
         "enabled"       "1"
         "xpos"          "0" 
-        "ypos"          "r152"
+        "ypos"          "0" //"r152"
         "wide"          "f0"
         "tall"          "f0"
         "MeterFG"       "White"
@@ -799,7 +823,7 @@
         "wide"   "628"
         "tall"   "468"
 
-        "MaxDeathNotices" "12"
+        "MaxDeathNotices" "6"
         "IconScale"   "0.35"
         "LineHeight"      "14"
         "LineSpacing"     "1"
