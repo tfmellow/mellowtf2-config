@@ -1,14 +1,13 @@
-	WeaponData
+WeaponData
 {
 	// Attributes Base.
-	"printname"			"#TF_Weapon_Bottle"
+	"printname"			"#TF_Weapon_Fists"
 	"BuiltRightHanded"		"0"
 	"MeleeWeapon"			"1"
 	"weight"			"1"
-	"WeaponType"		"melee"
+	"WeaponType"			"melee"
 	"ITEM_FLAG_NOITEMPICKUP" 	"1"
-	"HasTeamSkins_Viewmodel"			"1"
-	"HasTeamSkins_Worldmodel"			"1"
+	"DontDrop"			"1"
 	
 	// Attributes TF.
 	"Damage"			"65"
@@ -26,15 +25,16 @@
 	// Model & Animation
 	//"viewmodel"     -viewmodel is now defined in _items_main.txt
 	//"playermodel"   -playermodel is now defined in _items_main.txt
-	"anim_prefix"			"bottle"
+	"anim_prefix"			"pipe"
+	"HasTeamSkins_Viewmodel"			"1"
 
 	// Sounds for the weapon. There is a max of 16 sounds per category (i.e. max 16 "single_shot" sounds)
 	SoundData
 	{
-		"melee_miss"		"Weapon_Bottle.Miss"
-		"melee_hit"		"Weapon_Bottle.HitFlesh"
-		"melee_hit_world"	"Weapon_Bottle.HitWorld"
-		"burst"			"Weapon_Bottle.MissCrit"
+		"melee_miss"		"Weapon_Fist.Miss"
+		"melee_hit"		"Weapon_Fist.HitFlesh"
+		"melee_hit_world"	"Weapon_Fist.HitWorld"
+		"burst"			"Weapon_Fist.MissCrit"
 	}
 
 	// Weapon Sprite data is loaded by the Client DLL.
@@ -42,7 +42,7 @@
 	{
 		"weapon"
 		{
-				"file"		"sprites/bucket_bottle_red"
+				"file"		"sprites/bucket_fists_red"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"
@@ -50,13 +50,12 @@
 		}
 		"weapon_s"
 		{	
-				"file"		"sprites/bucket_bottle_blue"
+				"file"		"sprites/bucket_fists_blue"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"
 				"height"		"128"
 		}
-
 		"ammo"
 		{
 				"file"		"sprites/a_icons1"
@@ -65,7 +64,6 @@
 				"width"		"73"
 				"height"	"15"
 		}
-
 		"crosshair"
 		{
 				"file"		"vgui/replay/thumbnails/crosshair5OL"
