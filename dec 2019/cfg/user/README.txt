@@ -1,0 +1,1 @@
+Custom addons run after presets, modules, and built-in mastercomfig addons, but before the user’s autoexec.
