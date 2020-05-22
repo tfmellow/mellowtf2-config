@@ -867,6 +867,18 @@ Scheme
 			}
 		}
 
+		"DemiBold20OL"
+		{
+			"1"
+			{
+				"name"		"Archive"
+				"tall"		"20"
+				"additive"		"0"
+				"antialias"	"1"
+				"outline"	"1"
+			}
+		}
+
 		"DemiBold19"
 		{
 			"1"
@@ -1293,6 +1305,18 @@ Scheme
 				"tall"		"22"
 				"additive"		"0"
 				"antialias"	"1"
+			}
+		}
+		
+		"Medium20Outline"
+		{
+			"1"
+			{
+				"name"		"Archive"
+				"tall"		"22"
+				"additive"		"0"
+				"antialias"	"1"
+				"outline"	"1"
 			}
 		}
 

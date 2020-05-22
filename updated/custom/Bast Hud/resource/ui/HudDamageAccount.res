@@ -9,10 +9,8 @@
 		"PositiveColor"			"0 221 255 255"
 		"NegativeColor"			"White"
 		"delta_lifetime"		"2.5"
-
-		//NO OUTLINE ON NUMBERS
-			"delta_item_font"	"Medium20"
-			"delta_item_font_big"	"Medium22"
+		"delta_item_font"		"Medium20Outline"
+		"delta_item_font_big"	"Medium22Outline"
 	}
 
 	"DamageAccountValue"
@@ -30,7 +28,7 @@
 		"delta_lifetime"		"10.0"
 		"textAlignment"	"west"
 		"fgcolor"		"White"
-		"font"			"DemiBold20"
+		"font"			"DemiBold20OL"
 	}	
 
 	"DamageAccountValueShadow"
