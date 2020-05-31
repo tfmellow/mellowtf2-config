@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Mon May  4 20:47:46 AM
+// File generated:  Tue May 26 23:10:41 AM
 //
 //
 // Cvar	-	Setting
@@ -324,7 +324,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_UseAdvancedTourneyGUI"
 		"#Tooltip_UseAdvancedTourneyGUI"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"cl_spec_carrieditems"
@@ -442,7 +442,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_TargetID_Disable_Floating"
 		"#ToolTip_TargetID_Disable_Floating"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"tf_hud_target_id_alpha"
@@ -735,7 +735,7 @@ DESCRIPTION INFO_OPTIONS
 			"#TF_DemoSupport_All" "2"
 			"#TF_DemoSupport_Tournament" "3"
 		}
-		{ "2" }
+		{ "1" }
 	}
 
 	"ds_dir"
