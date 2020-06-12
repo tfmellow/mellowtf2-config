@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Tue May 26 23:10:41 AM
+// File generated:  Wed Jun 10 22:09:39 AM
 //
 //
 // Cvar	-	Setting
@@ -126,7 +126,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_Volume"
 		"#Tooltip_Dingaling_Volume"
 		{ SLIDER 0 1 }
-		{ "0.75" }
+		{ "1" }
 	}
 
 	"tf_dingalingaling_last_effect"
@@ -144,7 +144,7 @@ DESCRIPTION INFO_OPTIONS
 			"#tf_dingalingaling_Vortex" "7"
 			"#tf_dingalingaling_Squasher" "8"
 		}
-		{ "0" }
+		{ "6" }
 	}
 
 	"tf_dingaling_lasthit_pitchmindmg"
@@ -294,7 +294,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "99" }
+		{ "75" }
 	}
 
 	"category3"
@@ -324,7 +324,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_UseAdvancedTourneyGUI"
 		"#Tooltip_UseAdvancedTourneyGUI"
 		{ BOOL }
-		{ "0" }
+		{ "1" }
 	}
 
 	"cl_spec_carrieditems"
@@ -363,7 +363,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_viewmodelfov_option"
 		"#Tooltip_viewmodelfov_option"
 		{ SLIDER 54 70 }
-		{ "70" }
+		{ "54" }
 	}
 
 	"tf_spectator_target_location"
@@ -542,7 +542,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TFOption_replay_screenshotresolution"
 		"#Tooltip_replay_screenshotresolution"
 		{ BOOL }
-		{ "1" }
+		{ "0" }
 	}
 
 	"replay_maxscreenshotsperreplay"
@@ -735,7 +735,7 @@ DESCRIPTION INFO_OPTIONS
 			"#TF_DemoSupport_All" "2"
 			"#TF_DemoSupport_Tournament" "3"
 		}
-		{ "1" }
+		{ "2" }
 	}
 
 	"ds_dir"
