@@ -32,7 +32,7 @@
 
 
 // Half-Life User Info Configuration Layout Script (stores last settings chosen, too)
-// File generated:  Wed Jun 10 22:09:39 AM
+// File generated:  Sun Jun 14 21:46:17 AM
 //
 //
 // Cvar	-	Setting
@@ -144,7 +144,7 @@ DESCRIPTION INFO_OPTIONS
 			"#tf_dingalingaling_Vortex" "7"
 			"#tf_dingalingaling_Squasher" "8"
 		}
-		{ "6" }
+		{ "5" }
 	}
 
 	"tf_dingaling_lasthit_pitchmindmg"
@@ -152,7 +152,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_PitchLowDmg"
 		"#Tooltip_Dingaling_PitchLowDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "128.25" }
 	}
 
 	"tf_dingaling_lasthit_pitchmaxdmg"
@@ -160,7 +160,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_Dingaling_LastHit_PitchHighDmg"
 		"#Tooltip_Dingaling_PitchHighDmg"
 		{ SLIDER 1 255 }
-		{ "100" }
+		{ "127.730003" }
 	}
 
 	"hud_combattext"
@@ -294,7 +294,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_AutoMedicCallThreshold"
 		"#Tooltip_AutoMedicCallThreshold"
 		{ SLIDER 10 99 }
-		{ "75" }
+		{ "99" }
 	}
 
 	"category3"
@@ -363,7 +363,7 @@ DESCRIPTION INFO_OPTIONS
 		"#TF_viewmodelfov_option"
 		"#Tooltip_viewmodelfov_option"
 		{ SLIDER 54 70 }
-		{ "54" }
+		{ "70" }
 	}
 
 	"tf_spectator_target_location"
