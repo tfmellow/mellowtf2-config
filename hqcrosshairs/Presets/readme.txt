@@ -1,0 +1,1 @@
+Open some of this folder and install content to tf/custom/hqcrosshairs folder
