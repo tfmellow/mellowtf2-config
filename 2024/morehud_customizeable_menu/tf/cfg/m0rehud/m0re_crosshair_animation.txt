@@ -1,0 +1,1 @@
+event DamagedPlayer { RunEvent CrosshairFlash 0.0 } 
